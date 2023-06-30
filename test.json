@@ -2,7 +2,7 @@
     "url": "https://raw.githubusercontent.com/cyber-rajnish/swaggerui/main/test.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/dreamerRAJ/swagger-test/main/test.yaml",
+            "url": "https://raw.githubusercontent.com/cyber-rajnish/swaggerui/main/test.yaml",
             "name": "HTML INJECTED BY CYBERARCH"
         }
     ]
