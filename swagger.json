@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/cyber-rajnish/swaggerui/main/swager.yaml",
+    "url": "https://raw.githubusercontent.com/cyber-rajnish/swaggerui/main/swagger.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/cyber-rajnish/swaggerui/main/swager.yaml",
+            "url": "https://raw.githubusercontent.com/cyber-rajnish/swaggerui/main/swagger.yaml",
             "name": "DOM XSS BY CYBERARCH"
         }
     ]
