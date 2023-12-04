@@ -1,9 +1,9 @@
 {
-    "url": "https://m0x0101.github.io/lol/redirect_with_xss.yaml",
+    "url": "https://cyber-rajnish.github.io/swaggerui/redirect_with_xss.yaml",
     "urls": [
         {
-            "url": "https://m0x0101.github.io/lol/redirect_with_xss.yaml",
-            "name": "Foo"
+            "url": "https://cyber-rajnish.github.io/swaggerui/redirect_with_xss.yaml",
+            "name": "XSS TO OPEN REDIRECT CYBERARCH POC"
         }
     ]
 }
